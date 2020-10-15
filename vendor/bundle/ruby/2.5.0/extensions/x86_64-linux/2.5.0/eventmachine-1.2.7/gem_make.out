@@ -1,0 +1,16 @@
+current directory: /home/jkrm/projects/bbvaHackaton/tabler/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.5 -r ./siteconf20201015-9709-17sg08p.rb extconf.rb --with-cppflags=-I/include
+creating Makefile
+
+current directory: /home/jkrm/projects/bbvaHackaton/tabler/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/jkrm/projects/bbvaHackaton/tabler/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/jkrm/projects/bbvaHackaton/tabler/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20201015-9709-1ngvl04
