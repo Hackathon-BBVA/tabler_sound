@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tabler-dev-183646-authRole",
+      "UnauthRoleArn": "arn:aws:iam::024083997103:role/amplify-tabler-dev-183646-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::024083997103:role/amplify-tabler-dev-183646-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-tabler-dev-183646-deployment",
+      "UnauthRoleName": "amplify-tabler-dev-183646-unauthRole",
+      "StackName": "amplify-tabler-dev-183646",
+      "StackId": "arn:aws:cloudformation:us-west-2:024083997103:stack/amplify-tabler-dev-183646/4dbb5110-0f3f-11eb-b3c0-027099ac82b7",
+      "AmplifyAppId": "d25k96e43z1gig"
+    }
+  }
+}
